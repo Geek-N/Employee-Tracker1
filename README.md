@@ -2,6 +2,8 @@ Employee Management System
 
 Description
 
+LINK TO VIDEO: https://drive.google.com/file/d/1wyOvgE_8sW6HrfZF8eesEjwhUwygYr01/view
+
 The Employee Management System is a command-line application that allows business owners to manage employee information, including departments, roles, and employee data. The system enables users to interact with a PostgreSQL database to perform CRUD (Create, Read, Update, Delete) operations via a user-friendly command-line interface using Node.js, Inquirer, and PostgreSQL.
 
 Key Features:
@@ -62,8 +64,7 @@ Prerequisites
 Install Node.js and npm (Node Package Manager) on your system.
 Install PostgreSQL and create a database for the application.
 Installation
-Clone the repository:
-git clone https://github.com/your-username/employee-management-system.git
+Clone the repository
 cd employee-management-system
 Install the required npm packages:
 npm install
